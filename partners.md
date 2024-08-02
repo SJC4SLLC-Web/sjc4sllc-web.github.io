@@ -8,13 +8,13 @@ title: Partners
 
 <div class="partners-grid">
     <div class="partner">
-        <img src="/assets/partners/IBM_business_partner-300x164.png" alt="Lenovo Business Partner">
+        <img src="/assets/Partners/IBM_business_partner-300x164.png" alt="Lenovo Business Partner">
     </div>
     <div class="partner">
-        <img src="/assets/partners/techdata-300x132.png" alt="Tech Data">
+        <img src="/assets/Partners/techdata-300x132.png" alt="Tech Data">
     </div>
     <div class="partner">
-        <img src="/assets/partners/synnex-logo-300x119.png" alt="Synnex Corporation">
+        <img src="/assets/Partners/synnex-logo-300x119.png" alt="Synnex Corporation">
     </div>
     <div class="partner">
         <img src="/assets/Partners/INGRAM-MICRO-NEW-LOGO2-300x58.png" alt="Ingram Micro">
